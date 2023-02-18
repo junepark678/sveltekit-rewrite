@@ -1,4 +1,5 @@
 <script lang="ts">
+  import "../app.css";
   import DnsCreator from "../lib/dnsCreator.svelte";
 </script>
 
@@ -8,5 +9,7 @@
 </main>
 
 <style>
-
+* {
+  margin: auto auto;
+}
 </style>

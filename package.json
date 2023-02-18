@@ -29,5 +29,8 @@
 		"uuid": "^9.0.0",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@plist/plist": "^1.0.0"
+	}
 }
